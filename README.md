@@ -9,14 +9,14 @@ Category url is like `http://news.livedoor.com/topics/category/sports/`.
 ## 2. Collect article url
 Run `collect_article_url.py` for article url in category.
 
-```py
+```shell
 $ python collect_article_url.py
 ```
 
 ## 3. Collect articles
 Run `scrape_articles.py`.  
 
-```py
+```shell
 $ python scrape_articles.py
 ```
 
